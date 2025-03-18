@@ -1,9 +1,21 @@
-Go to Project root 
-run npm i
-run - npm run dev
-once the project is loaded navigate between the pages
 
 
-PACKAGES
+## Getting Started
+
+First, install the dependencies:
+
+```bash
+npm i
+```
+
+Then, run the dev server:
+
+```bash
+npm run dev
+```
+
+## Packages
+```bash
 axios
 @tanstack/react-query
+```
